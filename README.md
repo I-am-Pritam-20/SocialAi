@@ -64,4 +64,19 @@ in client directory
         CLOUDINARY_CLOUD_NAME=CLOUDINARY_CLOUD_NAME
         CLOUDINARY_API_KEY=CLOUDINARY_API_KEY
         CLOUDINARY_API_SECRET=CLOUDINARY_API_SECRET
-      
+
+
+
+
+
+
+
+
+
+![Screenshot 2024-11-09 205301](https://github.com/user-attachments/assets/3a691475-af75-41f7-bedc-95387847651e)
+![Screenshot 2024-11-09 205348](https://github.com/user-attachments/assets/796ae3a9-d939-40a2-b380-60821b989f0b)
+![Screenshot 2024-11-09 205407](https://github.com/user-attachments/assets/8f291268-dbe1-40f0-96a2-9e350adebedb)
+![Screenshot 2024-11-09 205439](https://github.com/user-attachments/assets/793c8b55-d9b1-4d4d-acf2-985d50ab69cf)
+![Screenshot 2024-11-09 205529](https://github.com/user-attachments/assets/3360c4c2-1cf9-4036-bc28-0c4677703b9c)
+![Screenshot 2024-11-09 205610](https://github.com/user-attachments/assets/be585034-aaaa-425a-af0b-581414853099)
+
