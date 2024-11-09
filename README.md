@@ -69,6 +69,8 @@ in client directory
 
 
 
+#Architecture Diagram:
+![Screenshot (408)](https://github.com/user-attachments/assets/82c4a06a-1536-48c8-b3cd-b0bb5c1d3182)
 
 
 
