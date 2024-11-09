@@ -88,9 +88,9 @@ function  Chatbot() {
   }
  return(
   <>
-   <div className="mt-10 bg-neutral-50 py-24 px-6 text-center dark:bg-neutral-900">
+   <div className="mt-10 bg-gradient-to-r from-slate-600 to-cyan-500 py-24 px-6 text-center">
           <h1 className="mt-10 mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-7xl text-white">
-            The best offer on the market <br /><span className='text-blue-300'>for your business</span>
+            The best offer on the market <br /><span className='bg-gradient-to-r from-yellow-200 to-pink-600 text-transparent bg-clip-text'>for your business</span>
           </h1>
 
         </div>

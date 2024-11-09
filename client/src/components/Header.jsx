@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom';
-import {vite} from '../assets/index'
+import {logo2} from '../assets/index'
 import Dropdown from 'react-dropdown';
 import MobileMenu from './mobile-menu'
 
@@ -28,7 +28,7 @@ export default function Header() {
           <div className="shrink-0 mr-4">
             
             <Link to='/'>
-                <img src={vite}/>
+                <img src={logo2} className='w-16 h-16'/>
             </Link>
           </div>
 
@@ -52,8 +52,8 @@ export default function Header() {
                 </Link>
               </li>
               <li>
-              <Link to="/socialMediaManagerGPT" className="inline-block px-4 py-2 bg-blue-900 text-gray-200 hover:bg-gray-800 transition duration-300 ease-in-out ml-3 rounded-lg shadow">
-              SocialMediaManagerGPT
+              <Link to="/socialMediaManagerGPT" className="inline-block px-4 py-2 bg-violet-600 text-gray-200 hover:bg-violet-400 transition duration-300 ease-in-out ml-3 rounded-lg shadow">
+              SocialAi
              </Link>
   
               </li>

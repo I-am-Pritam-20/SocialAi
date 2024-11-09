@@ -92,9 +92,9 @@ const GenerateImg = () => {
 
   return (
     <section className="max-w-7xl mx-auto">
-    <div className="mt-10 bg-neutral-50 py-24 px-6 text-center dark:bg-neutral-900">
+    <div className="mt-10 bg-gradient-to-r from-slate-600 to-cyan-500 py-24 px-6 text-center ">
           <h1 className="mt-10 mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-7xl text-white">
-            Generate Images at your <br /><span className='text-blue-300'>Keywords</span>
+            Generate Images at your <br /><span className='bg-gradient-to-r from-yellow-200 to-pink-600 text-transparent bg-clip-text'>Keywords</span>
           </h1>
 
         </div>
