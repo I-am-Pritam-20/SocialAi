@@ -69,12 +69,12 @@ in client directory
 
 
 
-#Architecture Diagram:
+## Architecture Diagram:
 ![Screenshot (408)](https://github.com/user-attachments/assets/82c4a06a-1536-48c8-b3cd-b0bb5c1d3182)
 
 
 
-
+## Website Snapshots:
 ![Screenshot 2024-11-09 205301](https://github.com/user-attachments/assets/3a691475-af75-41f7-bedc-95387847651e)
 ![Screenshot 2024-11-09 205348](https://github.com/user-attachments/assets/796ae3a9-d939-40a2-b380-60821b989f0b)
 ![Screenshot 2024-11-09 205407](https://github.com/user-attachments/assets/8f291268-dbe1-40f0-96a2-9e350adebedb)
